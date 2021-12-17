@@ -2,8 +2,10 @@
     "posts": [
       { "id": 1, "title": "json-server", "author": "typicode" }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
+    "student": [
+      { "id": 1, "name": "Biswajit", "age": 25, "department": "ECE" },
+      { "id": 2, "name": "Indrajir", "age": 35, "department": "MCA" },
+      { "id": 1, "name": "Chandrani", "age": 21, "department": "HS" }
     ],
     "profile": { "name": "typicode" }
   }
